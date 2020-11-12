@@ -15,17 +15,3 @@ After performing classification, we use the feature importance from our classifi
 this can be done by dot product of feature imp and respective variables. The scores of elite customers are separated
 and log-graph of their scores is generated to fit a normal distribution and this can be used to calculate probability(our
 measure of user credibility) by using mean and standard deviation from above elite user’s graph as input.
-
-### Feature Importance after using LIGHTGBM classifier
-<img src = "images/Image1.png" width=200 height=200>
-
-### SHAP Plot
-![](Image4.png)
-
-### Elite User Log Score
-![](/images/Image5.png)
-
-
-### TNSE and Co-relation plots
-![](/images/Image2.png)
-![](/images/Image1.png)

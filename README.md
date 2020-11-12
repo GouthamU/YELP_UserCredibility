@@ -17,10 +17,10 @@ and log-graph of their scores is generated to fit a normal distribution and this
 measure of user credibility) by using mean and standard deviation from above elite user’s graph as input.
 
 ### Feature Importance after using LIGHTGBM classifier
-![alternative text](/images/Image3.png)
+![](Image3.png)
 
 ### SHAP Plot
-![text](../images/Image4.png)
+![](Image4.png)
 
 ### Elite User Log Score
 ![](/images/Image5.png)
